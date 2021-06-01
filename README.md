@@ -1,2 +1,2 @@
 # mcsrv
-Minecraft server
+Minecraft server container testing via docker automation
